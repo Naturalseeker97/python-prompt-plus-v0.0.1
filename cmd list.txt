@@ -1,0 +1,28 @@
+pyp+ v0.01 -- updates are following
+
+exit / leave = exit pyp+
+time / date = print date
+dir / dirs / cdir = print all dirs
+changedir / chdir = change dir
+cls / clear prompt / clear commandline = cls
+color 1 -3 = set to a different color
+localdir/ ldir / cwd = get current dir
+ping = ping ip
+getip = get own ip
+traceip = traces a ip
+newTk = creats new tk window called win
+newtext = print a new text on too tk window called win
+newspace = create empty space / text on tk window called win
+cmd / pshell / powershell = start cmd or power shell
+shutdown --me = shutdown ur pc (20sec to shutdown)
+shutdown --stop = stops shutdown
+shutdown --other = shutdown remote pc
+hex2utf-8 = converts hex to utf-8
+info = prints infotext
+support prints support e-mail
+
+troll cmds
+
+crash = crashes ur pc
+
+commands are following with updates
